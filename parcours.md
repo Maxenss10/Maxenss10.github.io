@@ -23,12 +23,15 @@ Bac [Maths Physique], mention Assez Bien , Nogent sur Marne 94170
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2024` **Projet d’étude – préciser le thème du projet**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe d 2  étudiants_ 
+Distributeur de croquettes pour chat réalisé en équipe de 2 étudiants : 
+
+Réaliser des pièces en 3D grâce à l'applications One Shape   
+
+Utilisation des imprimantes 3D pour imprimer nos pièces en 3D  
+* `2024` **Projet d’étude – préciser le thème du projet** 
 
 
 `2020-2024` **Entreprise, secteur activité, description site rejoint, taille, ville**
