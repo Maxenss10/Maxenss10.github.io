@@ -15,11 +15,11 @@ Elève ingénieur en numérique et énergétique
 * Cours : Maths,Physique,Electrocinétique,Systhème infos
 
 `2024– 2029`
-**Ecole d'ingénieur [Energie et Numérique** - Université [Unilasalle Amiens ]
+**Ecole d'ingénieur [Energie et Numérique** - Université [Unilasalle Amiens]
 * Cours : Projet applicatif en 3D, Projet Informatique, Création de jeu en langage C 
 
 `2024`
-Bac [Maths Physique ], mention Assez Bien , Nogent sur Marne 94170
+Bac [Maths Physique], mention Assez Bien , Nogent sur Marne 94170 
 
 ## Expériences
 
@@ -31,9 +31,8 @@ _Réalisé en équipe de XX étudiants_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2020-2024` **Entreprise, secteur activité, description site rejoint, taille, ville**
 
-_Stage – intitulé du poste_
 *Juillet 2024 :  Gestionnaire de stock Levis : 
 Mise à jour du stock. Préparer et étiqueter des nouveaux produits pour le Magasin Levis de la vallée village
 * Juillet 2023 : Agent Logistique Centre logistique DAPO LA POSTE Brie comte Robert :  
