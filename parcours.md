@@ -14,12 +14,12 @@ download_cv: assets/docs/Template_CV.pdf
 Elève ingénieur en numérique et énergétique 
 * Cours : Maths,Physique,Electrocinétique,Systhème infos
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
+`2024– 2029`
+**Ecole d'ingénieur [Energie et Numérique** - Université [Unilasalle Amiens ]
+* Cours : Projet applicatif en 3D, Projet Informatique, Création de jeu en langage C 
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac [Maths Physique ], mention Assez Bien , Nogent sur Marne 94170
 
 ## Expériences
 
