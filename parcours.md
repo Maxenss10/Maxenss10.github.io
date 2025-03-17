@@ -34,14 +34,14 @@ _Réalisé en équipe de XX étudiants_
 `20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
 
 _Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+*Juillet 2024 :  Gestionnaire de stock Levis : 
+Mise à jour du stock. Préparer et étiqueter des nouveaux produits pour le Magasin Levis de la vallée village
+* Juillet 2023 : Agent Logistique Centre logistique DAPO LA POSTE Brie comte Robert :  
+Mise à jour base de données des ORDIVAL du conseil général d ‘Ile de Franc
+* Juin 2022 : Inventoriste Intermarché, La Halle aux vêtements
+* Stage de 3ème Société Générale Joinville le Pont
+* Stage Découverte à la Source ESport à Lyon  
 
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
 ## Compétences
 
@@ -51,10 +51,9 @@ Langues
 
 Informatique
 * Logiciels maitrisés : Onshape , World, Power Point  
-* Logiciels maitrisés : Kit Cad, 
+* Logiciels maitrisés : Kit Cad,
 
-Autres
-* Autres diplômes ou permis spéciaux
+
 
 ## Centres d’intérêt
 
