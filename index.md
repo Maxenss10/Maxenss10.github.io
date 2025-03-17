@@ -13,8 +13,16 @@ Elève en 1 ère année en école d'ingénieur spécialiser en numérique et én
 
 
 Disponible 1 mois à partir du 15 juin 
+<!-- Lien pour envoyer un email -->
+<a href="mailto:naytesalon@gmail.com">
+    <button>Email</button>
+</a>
 
-[naytesalon@gmail.com](mailto:Prenom.Nom@xxx.com)
+<!-- Lien pour appeler -->
+<a href="tel:+0620501310">
+    <button>Appeler</button>
+</a>
+
 
 [LinkedIn](https://www.linkedin.com/in/Maxence.Salon)
 
